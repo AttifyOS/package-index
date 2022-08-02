@@ -5,12 +5,14 @@ last_updated = 2022-08-02T08:12:56Z
 name = "Cutter"
 description = "Free and Open Source Reverse Engineering Platform powered by rizin"
 version = "2.1.0"
-package_url = "https://github.com/AttifyOS/cutter"
+repo_url = "https://github.com/AttifyOS/cutter"
+repo_tag = "v2.1.0"
 license = "GPL-3.0"
 
 [packages.ghidra]
 name = "Ghidra"
 description = "Ghidra is a software reverse engineering (SRE) framework"
 version = "10.1.5"
-package_url = "https://github.com/AttifyOS/ghidra"
+repo_url = "https://github.com/AttifyOS/ghidra"
+repo_tag = "v10.1.5"
 license = " Apache-2.0"
