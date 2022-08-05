@@ -1,4 +1,4 @@
-last_updated = 2022-08-05T12:05:53Z
+last_updated = 2022-08-05T20:56:32Z
 
 [packages]
 [packages.cutter]
@@ -23,4 +23,12 @@ description = "Dex to Java decompiler"
 version = "1.4.3"
 repo_url = "https://github.com/AttifyOS/jadx"
 repo_tag = "v1.4.3"
+license = " Apache-2.0"
+
+[packages.apktool]
+name = "apktool"
+description = "A tool for reverse engineering Android apk files"
+version = "2.6.1"
+repo_url = "https://github.com/AttifyOS/apktool"
+repo_tag = "v2.6.1"
 license = " Apache-2.0"
