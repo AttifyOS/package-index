@@ -32,3 +32,11 @@ version = "2.6.1"
 repo_url = "https://github.com/AttifyOS/apktool"
 repo_tag = "v2.6.1"
 license = " Apache-2.0"
+
+[packages.frida]
+name = "frida"
+description = "Dynamic instrumentation toolkit for developers, reverse-engineers, and security researchers."
+version = "15.2.2"
+repo_url = "https://github.com/AttifyOS/frida"
+repo_tag = "v15.2.2"
+license = "wxWindows Library Licence, Version 3.1"
