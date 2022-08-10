@@ -1,4 +1,4 @@
-last_updated = 2022-08-05T20:56:32Z
+last_updated = 2022-08-10T08:48:23Z
 
 [packages]
 [packages.cutter]
@@ -48,3 +48,12 @@ version = "e224eea"
 repo_url = "https://github.com/AttifyOS/bettercap"
 repo_tag = "ve224eea"
 license = "GPL-3.0"
+
+[packages.objection]
+name = "objection"
+description = "Runtime Mobile Exploration."
+version = "1.11.0"
+repo_url = "https://github.com/AttifyOS/objection"
+repo_tag = "v1.11.0"
+license = "GPL-3.0"
+package_type = "snap"
