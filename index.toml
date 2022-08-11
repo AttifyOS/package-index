@@ -1,4 +1,4 @@
-last_updated = 2022-08-10T08:48:23Z
+last_updated = 2022-08-11T10:56:24Z
 
 [packages]
 [packages.cutter]
@@ -56,4 +56,13 @@ version = "1.11.0"
 repo_url = "https://github.com/AttifyOS/objection"
 repo_tag = "v1.11.0"
 license = "GPL-3.0"
+package_type = "snap"
+
+[packages.nmap]
+name = "nmap"
+description = "Free and open source utility for network discovery and security auditing"
+version = "7.92"
+repo_url = "https://github.com/AttifyOS/nmap"
+repo_tag = "v7.92"
+license = "Nmap Public Source License Version 0.94"
 package_type = "snap"
