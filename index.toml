@@ -66,3 +66,11 @@ repo_url = "https://github.com/AttifyOS/nmap"
 repo_tag = "v7.92"
 license = "Nmap Public Source License Version 0.94"
 package_type = "snap"
+
+[packages.arduino]
+name = "arduino"
+description = "IDE for Arduino, an open source electronics platform"
+version = "2.0.0-rc9.2"
+repo_url = "https://github.com/AttifyOS/ArduinoIDE"
+repo_tag = "v2.0.0-rc9.2"
+license = "AGPL-3.0"
