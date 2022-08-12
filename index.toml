@@ -74,3 +74,12 @@ version = "2.0.0-rc9.2"
 repo_url = "https://github.com/AttifyOS/ArduinoIDE"
 repo_tag = "v2.0.0-rc9.2"
 license = "AGPL-3.0"
+
+[packages.flashrom]
+name = "flashrom"
+description = "Identify, read, write, erase, and verify BIOS/ROM/flash chips"
+version = "1.2"
+repo_url = "https://github.com/AttifyOS/flashrom"
+repo_tag = "v1.2"
+license = "GPL-2.0"
+package_type = "snap"
