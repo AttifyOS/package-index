@@ -1,4 +1,4 @@
-last_updated = 2022-08-11T10:56:24Z
+last_updated = 2022-08-13T07:17:50Z
 
 [packages]
 [packages.cutter]
@@ -83,3 +83,11 @@ repo_url = "https://github.com/AttifyOS/flashrom"
 repo_tag = "v1.2"
 license = "GPL-2.0"
 package_type = "snap"
+
+[packages.srecord]
+name = "srecord"
+description = "The SRecord package is a collection of powerful tools for manipulating EPROM load files"
+version = "1.64"
+repo_url = "https://github.com/AttifyOS/SRecord"
+repo_tag = "v1.64"
+license = "GPL-3.0"

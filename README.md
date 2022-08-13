@@ -16,3 +16,4 @@ Package index for AttifyOS
 | JADX      | 1.4.3                   |              | https://github.com/AttifyOS/jadx       |
 | Nmap      | 7.92                    | snap package | https://github.com/AttifyOS/nmap       |
 | Objection | 1.11.0                  | snap package | https://github.com/AttifyOS/objection  |
+| SRecord   | 1.64                    |              | https://github.com/AttifyOS/SRecord    |
