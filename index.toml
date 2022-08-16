@@ -99,3 +99,11 @@ version = "3.0.0-beta.2"
 repo_url = "https://github.com/AttifyOS/killerbee"
 repo_tag = "v3.0.0-beta.2"
 license = "BSD"
+
+[packages.gqrx]
+name = "gqrx"
+description = "Software defined radio receiver powered by GNU Radio and Qt"
+version = "2.15.9"
+repo_url = "https://github.com/AttifyOS/gqrx"
+repo_tag = "v2.15.9"
+license = "BSD"
