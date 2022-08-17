@@ -1,4 +1,4 @@
-last_updated = 2022-08-17T12:49:10Z
+last_updated = 2022-08-17T13:31:36Z
 
 [packages]
 [packages.cutter]
@@ -131,3 +131,12 @@ version = "5.64"
 repo_url = "https://github.com/AttifyOS/bdaddr"
 repo_tag = "v5.64"
 license = "GPL-2.0, LGPL-2.1"
+
+[packages.bluez]
+name = "bluez"
+description = "BlueZ provides support for the core Bluetooth layers and protocols. This package auto-updates to the latest version."
+version = "latest"
+repo_url = "https://github.com/AttifyOS/bluez"
+repo_tag = "vlatest"
+license = "GPL-2.0, LGPL-2.1"
+package_type = "snap"
