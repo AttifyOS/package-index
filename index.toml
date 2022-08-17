@@ -1,4 +1,4 @@
-last_updated = 2022-08-16T15:41:58Z
+last_updated = 2022-08-17T07:00:43Z
 
 [packages]
 [packages.cutter]
@@ -114,4 +114,12 @@ description = "Hardware Security Research and Serial Communication tool (to be u
 version = "0.0.1"
 repo_url = "https://github.com/AttifyOS/attify-badge-tool"
 repo_tag = "v0.0.1"
+license = "MIT"
+
+[packages.baudrate]
+name = "baudrate"
+description = "Baudrate detection tool"
+version = "1.0"
+repo_url = "https://github.com/AttifyOS/baudrate"
+repo_tag = "v1.0"
 license = "MIT"
