@@ -1,4 +1,4 @@
-last_updated = 2022-08-18T11:33:42Z
+last_updated = 2022-08-18T14:43:04Z
 
 [packages]
 [packages.cutter]
@@ -149,3 +149,11 @@ repo_url = "https://github.com/AttifyOS/firmware-mod-kit"
 repo_tag = "v0.99-8403a17"
 license = ""
 package_type = "snap"
+
+[packages.gnuradio]
+name = "gnuradio"
+description = "The Free and Open Software Radio Ecosystem "
+version = "3.10.3.0"
+repo_url = "https://github.com/AttifyOS/gnuradio"
+repo_tag = "v3.10.3.0"
+license = "GPL-3.0"
