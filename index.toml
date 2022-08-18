@@ -152,7 +152,7 @@ package_type = "snap"
 
 [packages.gnuradio]
 name = "gnuradio"
-description = "The Free and Open Software Radio Ecosystem "
+description = "The Free and Open Software Radio Ecosystem"
 version = "3.10.3.0"
 repo_url = "https://github.com/AttifyOS/gnuradio"
 repo_tag = "v3.10.3.0"
