@@ -1,4 +1,4 @@
-last_updated = 2022-08-18T14:43:04Z
+last_updated = 2022-08-19T05:27:48Z
 
 [packages]
 [packages.cutter]
@@ -157,3 +157,11 @@ version = "3.10.3.0"
 repo_url = "https://github.com/AttifyOS/gnuradio"
 repo_tag = "v3.10.3.0"
 license = "GPL-3.0"
+
+[packages.linuxrouter]
+name = "linuxrouter"
+description = "Set Linux as router in one command. Support Internet sharing, redsocks, Wifi hotspot, IPv6"
+version = "0.6.6"
+repo_url = "https://github.com/AttifyOS/linux-router"
+repo_tag = "v0.6.6"
+license = "LGPL-2.1"
