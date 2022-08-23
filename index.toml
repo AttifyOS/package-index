@@ -165,3 +165,12 @@ version = "0.6.6"
 repo_url = "https://github.com/AttifyOS/linux-router"
 repo_tag = "v0.6.6"
 license = "LGPL-2.1"
+
+[packages.binwalk]
+name = "binwalk"
+description = "A fast, easy to use tool for analyzing, reverse engineering, and extracting firmware images"
+version = "2.3.3"
+repo_url = "https://github.com/AttifyOS/binwalk"
+repo_tag = "v2.3.3"
+license = "MIT"
+package_type = "snap"
