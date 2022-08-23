@@ -1,4 +1,4 @@
-last_updated = 2022-08-19T05:27:48Z
+last_updated = 2022-08-23T10:56:09Z
 
 [packages]
 [packages.cutter]
@@ -174,3 +174,11 @@ repo_url = "https://github.com/AttifyOS/binwalk"
 repo_tag = "v2.3.3"
 license = "MIT"
 package_type = "snap"
+
+[packages.radare2]
+name = "radare2"
+description = "The Free and Open Software Radio Ecosystem"
+version = "5.7.6"
+repo_url = "https://github.com/AttifyOS/radare2"
+repo_tag = "v5.7.6"
+license = "GPL-3.0, LGPL-3.0"
