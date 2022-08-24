@@ -1,4 +1,4 @@
-last_updated = 2022-08-23T10:56:09Z
+last_updated = 2022-08-24T07:39:33Z
 
 [packages]
 [packages.cutter]
@@ -182,3 +182,11 @@ version = "5.7.6"
 repo_url = "https://github.com/AttifyOS/radare2"
 repo_tag = "v5.7.6"
 license = "GPL-3.0, LGPL-3.0"
+
+[packages.colordiff]
+name = "colordiff"
+description = "A tool to colorize diff output"
+version = "1.0.20"
+repo_url = "https://github.com/AttifyOS/colordiff"
+repo_tag = "v1.0.20"
+license = "GPL-2.0"
