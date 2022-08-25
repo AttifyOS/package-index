@@ -190,3 +190,11 @@ version = "1.0.20"
 repo_url = "https://github.com/AttifyOS/colordiff"
 repo_tag = "v1.0.20"
 license = "GPL-2.0"
+
+[packages.inspectrum]
+name = "inspectrum"
+description = "A tool for analysing captured signals, primarily from software-defined radio receivers"
+version = "march27-2022-98b998ff"
+repo_url = "https://github.com/AttifyOS/inspectrum"
+repo_tag = "v98b998ff"
+license = "GPL-3.0"
