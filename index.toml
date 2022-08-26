@@ -1,4 +1,4 @@
-last_updated = 2022-08-24T07:39:33Z
+last_updated = 2022-08-26T09:10:46Z
 
 [packages]
 [packages.cutter]
@@ -198,3 +198,11 @@ version = "march27-2022-98b998ff"
 repo_url = "https://github.com/AttifyOS/inspectrum"
 repo_tag = "v98b998ff"
 license = "GPL-3.0"
+
+[packages.ookdecoder]
+name = "ookdecoder"
+description = "Ook-decoder reads On-Off Keying radio data commonly used in the 433MHz ISM bands using a software defined radio"
+version = "july19-2021-cc108f9"
+repo_url = "https://github.com/AttifyOS/ook-decoder"
+repo_tag = "vcc108f9"
+license = "MIT"
