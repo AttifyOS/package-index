@@ -1,4 +1,4 @@
-last_updated = 2022-08-26T09:10:46Z
+last_updated = 2022-08-26T09:51:27Z
 
 [packages]
 [packages.cutter]
@@ -205,4 +205,12 @@ description = "Ook-decoder reads On-Off Keying radio data commonly used in the 4
 version = "july19-2021-cc108f9"
 repo_url = "https://github.com/AttifyOS/ook-decoder"
 repo_tag = "vcc108f9"
+license = "MIT"
+
+[packages.openocd]
+name = "OpenOCD"
+description = "The Open On-Chip Debugger (OpenOCD) aims to provide debugging, in-system programming and boundary-scan testing for embedded target devices"
+version = "0.11.0-4"
+repo_url = "https://github.com/AttifyOS/OpenOCD"
+repo_tag = "v0.11.0-4"
 license = "MIT"
