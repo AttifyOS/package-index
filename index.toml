@@ -1,4 +1,4 @@
-last_updated = 2022-08-29T11:46:27Z
+last_updated = 2022-08-29T12:13:55Z
 
 [packages]
 [packages.cutter]
@@ -262,3 +262,11 @@ version = "de61bd5"
 repo_url = "https://github.com/AttifyOS/dump1090"
 repo_tag = "vde61bd5"
 license = "BSD-3-Clause"
+
+[packages.urh]
+name = "urh"
+description = "Universal Radio Hacker: Investigate Wireless Protocols Like A Boss"
+version = "2.9.3"
+repo_url = "https://github.com/AttifyOS/urh"
+repo_tag = "v2.9.3"
+license = "GPL-3.0"
