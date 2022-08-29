@@ -1,4 +1,4 @@
-last_updated = 2022-08-29T09:00:09Z
+last_updated = 2022-08-29T09:21:24Z
 
 [packages]
 [packages.cutter]
@@ -230,3 +230,11 @@ version = "3.7.0"
 repo_url = "https://github.com/AttifyOS/CANToolz"
 repo_tag = "v3.7.0"
 license = "Apache-2.0"
+
+[packages.cantoolz]
+name = "dwarf"
+description = "Full featured multi arch/os debugger built on top of PyQt5 and frida"
+version = "1.1.3"
+repo_url = "https://github.com/AttifyOS/Dwarf"
+repo_tag = "v1.1.3"
+license = "GPL-3.0"
