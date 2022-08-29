@@ -1,4 +1,4 @@
-last_updated = 2022-08-26T09:51:27Z
+last_updated = 2022-08-29T08:20:26Z
 
 [packages]
 [packages.cutter]
@@ -214,3 +214,11 @@ version = "0.11.0-4"
 repo_url = "https://github.com/AttifyOS/OpenOCD"
 repo_tag = "v0.11.0-4"
 license = "MIT"
+
+[packages.routersploit]
+name = "routersploit"
+description = "Exploitation Framework for Embedded Devices"
+version = "3.4.0"
+repo_url = "https://github.com/AttifyOS/routersploit"
+repo_tag = "v3.4.0"
+license = "BSD"
