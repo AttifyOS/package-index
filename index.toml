@@ -1,4 +1,4 @@
-last_updated = 2022-08-29T08:20:26Z
+last_updated = 2022-08-29T09:00:09Z
 
 [packages]
 [packages.cutter]
@@ -222,3 +222,11 @@ version = "3.4.0"
 repo_url = "https://github.com/AttifyOS/routersploit"
 repo_tag = "v3.4.0"
 license = "BSD"
+
+[packages.cantoolz]
+name = "cantoolz"
+description = "Black-box CAN network analysis framework"
+version = "3.7.0"
+repo_url = "https://github.com/AttifyOS/CANToolz"
+repo_tag = "v3.7.0"
+license = "Apache-2.0"
