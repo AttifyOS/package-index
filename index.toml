@@ -1,4 +1,4 @@
-last_updated = 2022-08-29T11:09:34Z
+last_updated = 2022-08-29T11:46:27Z
 
 [packages]
 [packages.cutter]
@@ -254,3 +254,11 @@ version = "0.0.1"
 repo_url = "https://github.com/AttifyOS/dumpflash"
 repo_tag = "v0.0.1"
 license = "MIT"
+
+[packages.dump1090]
+name = "dump1090"
+description = "Dump1090 is a simple Mode S decoder for RTLSDR devices"
+version = "de61bd5"
+repo_url = "https://github.com/AttifyOS/dump1090"
+repo_tag = "vde61bd5"
+license = "BSD-3-Clause"
