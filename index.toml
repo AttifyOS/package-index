@@ -1,4 +1,4 @@
-last_updated = 2022-08-29T12:13:55Z
+last_updated = 2022-08-30T07:13:22Z
 
 [packages]
 [packages.cutter]
@@ -270,3 +270,11 @@ version = "2.9.3"
 repo_url = "https://github.com/AttifyOS/urh"
 repo_tag = "v2.9.3"
 license = "GPL-3.0"
+
+[packages.kalibrate_rtl]
+name = "kalibrate_rtl"
+description = "Fork of kalibrate for use with rtl-sdr devices"
+version = "0.4.1"
+repo_url = "https://github.com/AttifyOS/kalibrate-rtl"
+repo_tag = "v0.4.1"
+license = "BSD-2-Clause"
