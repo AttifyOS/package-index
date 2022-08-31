@@ -1,4 +1,4 @@
-last_updated = 2022-08-30T07:13:22Z
+last_updated = 2022-08-31T05:45:15Z
 
 [packages]
 [packages.cutter]
@@ -278,3 +278,11 @@ version = "0.4.1"
 repo_url = "https://github.com/AttifyOS/kalibrate-rtl"
 repo_tag = "v0.4.1"
 license = "BSD-2-Clause"
+
+[packages.LTE_Cell_Scanner]
+name = "LTE_Cell_Scanner"
+description = "OpenCL, SDR, TDD/FDD LTE cell scanner"
+version = "bef6ef4"
+repo_url = "https://github.com/AttifyOS/LTE-Cell-Scanner"
+repo_tag = "vbef6ef4"
+license = "AGPL-3.0"
