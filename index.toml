@@ -1,4 +1,4 @@
-last_updated = 2022-08-31T05:45:15Z
+last_updated = 2022-08-31T06:34:12Z
 
 [packages]
 [packages.cutter]
@@ -286,3 +286,11 @@ version = "bef6ef4"
 repo_url = "https://github.com/AttifyOS/LTE-Cell-Scanner"
 repo_tag = "vbef6ef4"
 license = "AGPL-3.0"
+
+[packages.spectrum_painter]
+name = "spectrum_painter"
+description = "A tool to converts images to IQ streams that make images when viewed in a waterfall plot"
+version = "0.1"
+repo_url = "https://github.com/AttifyOS/spectrum_painter"
+repo_tag = "v0.1"
+license = "MIT"
