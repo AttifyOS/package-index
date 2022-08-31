@@ -279,7 +279,7 @@ repo_url = "https://github.com/AttifyOS/kalibrate-rtl"
 repo_tag = "v0.4.1"
 license = "BSD-2-Clause"
 
-[packages.LTE_Cell_Scanner]
+[packages.lte_cell_scanner]
 name = "LTE_Cell_Scanner"
 description = "OpenCL, SDR, TDD/FDD LTE cell scanner"
 version = "bef6ef4"
