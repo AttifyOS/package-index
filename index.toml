@@ -1,4 +1,4 @@
-last_updated = 2022-08-31T06:34:12Z
+last_updated = 2022-09-02T12:21:44Z
 
 [packages]
 [packages.cutter]
@@ -294,3 +294,11 @@ version = "0.1"
 repo_url = "https://github.com/AttifyOS/spectrum_painter"
 repo_tag = "v0.1"
 license = "MIT"
+
+[packages.fwanalyzer]
+name = "fwanalyzer"
+description = "A tool to analyze filesystem images for security"
+version = "1.4.3"
+repo_url = "https://github.com/AttifyOS/fwanalyzer"
+repo_tag = "v1.4.3"
+license = "Apache-2.0"
