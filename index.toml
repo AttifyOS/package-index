@@ -1,4 +1,4 @@
-last_updated = 2022-09-02T12:21:44Z
+last_updated = 2022-09-03T20:09:23Z
 
 [packages]
 [packages.cutter]
@@ -302,3 +302,11 @@ version = "1.4.3"
 repo_url = "https://github.com/AttifyOS/fwanalyzer"
 repo_tag = "v1.4.3"
 license = "Apache-2.0"
+
+[packages.gdb]
+name = "gdb"
+description = "GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes -- or what another program was doing at the moment it crashed."
+version = "12.1"
+repo_url = "https://github.com/AttifyOS/gdb-multiarch"
+repo_tag = "v12.1"
+license = "GPL-3.0"
