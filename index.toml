@@ -1,4 +1,4 @@
-last_updated = 2022-09-05T08:56:08Z
+last_updated = 2022-09-05T12:16:05Z
 
 [packages]
 [packages.cutter]
@@ -326,3 +326,11 @@ version = "a80c5f1"
 repo_url = "https://github.com/AttifyOS/drozer"
 repo_tag = "va80c5f1"
 license = "BSD-3-Clause"
+
+[packages.rtl_433]
+name = "rtl_433"
+description = "Program to decode radio transmissions from devices on the ISM bands (and other frequencies)"
+version = "21.12-146"
+repo_url = "https://github.com/AttifyOS/rtl_433"
+repo_tag = "v21.12-146"
+license = "GPL-2.0"
