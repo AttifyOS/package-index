@@ -1,4 +1,4 @@
-last_updated = 2022-09-03T20:09:23Z
+last_updated = 2022-09-05T05:18:13Z
 
 [packages]
 [packages.cutter]
@@ -310,3 +310,11 @@ version = "12.1"
 repo_url = "https://github.com/AttifyOS/gdb-multiarch"
 repo_tag = "v12.1"
 license = "GPL-3.0"
+
+[packages.iotsecfuzz]
+name = "iotsecfuzz"
+description = "A framework for for comprehensive testing of IoT device security at all levels of implementation"
+version = "1.0.0"
+repo_url = "https://github.com/AttifyOS/iotsecfuzz"
+repo_tag = "v1.0.0"
+license = "MIT"
