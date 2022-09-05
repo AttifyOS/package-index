@@ -1,4 +1,4 @@
-last_updated = 2022-09-05T05:18:13Z
+last_updated = 2022-09-05T08:56:08Z
 
 [packages]
 [packages.cutter]
@@ -318,3 +318,11 @@ version = "1.0.0"
 repo_url = "https://github.com/AttifyOS/iotsecfuzz"
 repo_tag = "v1.0.0"
 license = "MIT"
+
+[packages.drozer]
+name = "drozer"
+description = "The Leading Security Assessment Framework for Android"
+version = "a80c5f1"
+repo_url = "https://github.com/AttifyOS/drozer"
+repo_tag = "va80c5f1"
+license = "BSD-3-Clause"
