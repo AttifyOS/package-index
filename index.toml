@@ -1,4 +1,4 @@
-last_updated = 2022-09-06T08:19:57Z
+last_updated = 2022-09-06T15:04:28Z
 
 [packages]
 [packages.cutter]
@@ -342,3 +342,11 @@ version = "1.2.1"
 repo_url = "https://github.com/AttifyOS/apk-mitm"
 repo_tag = "v1.2.1"
 license = "MIT"
+
+[packages.expliot]
+name = "expliot"
+description = "A Framework for security testing and exploiting IoT products and IoT infrastructure"
+version = "0.9.11"
+repo_url = "https://github.com/AttifyOS/expliot"
+repo_tag = "v0.9.11"
+license = "AGPL-3.0"
