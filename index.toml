@@ -271,8 +271,8 @@ repo_url = "https://github.com/AttifyOS/urh"
 repo_tag = "v2.9.3"
 license = "GPL-3.0"
 
-[packages.kalibrate_rtl]
-name = "kalibrate_rtl"
+[packages.kalibrate-rtl]
+name = "kalibrate-rtl"
 description = "Fork of kalibrate for use with rtl-sdr devices"
 version = "0.4.1"
 repo_url = "https://github.com/AttifyOS/kalibrate-rtl"
