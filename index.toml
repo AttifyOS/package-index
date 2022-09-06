@@ -1,4 +1,4 @@
-last_updated = 2022-09-05T12:16:05Z
+last_updated = 2022-09-06T08:19:57Z
 
 [packages]
 [packages.cutter]
@@ -334,3 +334,11 @@ version = "21.12-146"
 repo_url = "https://github.com/AttifyOS/rtl_433"
 repo_tag = "v21.12-146"
 license = "GPL-2.0"
+
+[packages.apk-mitm]
+name = "apk-mitm"
+description = "A CLI application that automatically prepares Android APK files for HTTPS inspection"
+version = "1.2.1"
+repo_url = "https://github.com/AttifyOS/apk-mitm"
+repo_tag = "v1.2.1"
+license = "MIT"
