@@ -1,4 +1,4 @@
-last_updated = 2022-09-06T15:04:28Z
+last_updated = 2022-09-08T08:18:47Z
 
 [packages]
 [packages.cutter]
@@ -350,3 +350,12 @@ version = "0.9.11"
 repo_url = "https://github.com/AttifyOS/expliot"
 repo_tag = "v0.9.11"
 license = "AGPL-3.0"
+
+[packages.hal]
+name = "hal"
+description = "HAL – The Hardware Analyzer"
+version = "3.3.0-169"
+repo_url = "https://github.com/AttifyOS/hal"
+repo_tag = "v3.3.0-169"
+license = "MIT"
+package_type = "snap"
