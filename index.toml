@@ -1,4 +1,4 @@
-last_updated = 2022-09-08T08:18:47Z
+last_updated = 2022-09-09T11:26:02Z
 
 [packages]
 [packages.cutter]
@@ -359,3 +359,11 @@ repo_url = "https://github.com/AttifyOS/hal"
 repo_tag = "v3.3.0-169"
 license = "MIT"
 package_type = "snap"
+
+[packages.mqtt-pwn]
+name = "mqtt-pwn"
+description = "MQTT-PWN intends to be a one-stop-shop for IoT Broker penetration-testing and security assessment operations"
+version = "40368e5"
+repo_url = "https://github.com/AttifyOS/mqtt-pwn"
+repo_tag = "v40368e5"
+license = "GPL-3.0"
