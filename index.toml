@@ -1,12 +1,12 @@
-last_updated = 2022-09-09T11:26:02Z
+last_updated = 2022-11-09T11:30:14Z
 
 [packages]
 [packages.cutter]
 name = "Cutter"
 description = "Free and Open Source Reverse Engineering Platform powered by rizin"
-version = "2.1.0"
+version = "2.1.2"
 repo_url = "https://github.com/AttifyOS/cutter"
-repo_tag = "v2.1.0"
+repo_tag = "v2.1.2"
 license = "GPL-3.0"
 
 [packages.ghidra]
