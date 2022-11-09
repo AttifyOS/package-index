@@ -1,4 +1,4 @@
-last_updated = 2022-11-09T11:30:14Z
+last_updated = 2022-11-09T11:36:59Z
 
 [packages]
 [packages.cutter]
@@ -12,9 +12,9 @@ license = "GPL-3.0"
 [packages.ghidra]
 name = "Ghidra"
 description = "Ghidra is a software reverse engineering (SRE) framework"
-version = "10.1.5"
+version = "10.2"
 repo_url = "https://github.com/AttifyOS/ghidra"
-repo_tag = "v10.1.5"
+repo_tag = "v10.2"
 license = " Apache-2.0"
 
 [packages.jadx]
