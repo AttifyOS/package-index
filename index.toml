@@ -20,9 +20,9 @@ license = " Apache-2.0"
 [packages.jadx]
 name = "JADX"
 description = "Dex to Java decompiler"
-version = "1.4.3"
+version = "1.4.5"
 repo_url = "https://github.com/AttifyOS/jadx"
-repo_tag = "v1.4.3"
+repo_tag = "v1.4.5"
 license = " Apache-2.0"
 
 [packages.apktool]

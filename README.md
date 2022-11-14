@@ -35,7 +35,7 @@ Package index for AttifyOS
 | hal               | 3.3.0-169                 | snap package                          | https://github.com/AttifyOS/hal               | Sep 8, 2022  |
 | inspectrum        | 98b998ff (March 27, 2022) |                                       | https://github.com/AttifyOS/inspectrum        | Aug 25, 2022 |
 | iotsecfuzz        | 1.0.0                     |                                       | https://github.com/AttifyOS/iotsecfuzz        | Sep 5, 2022  |
-| JADX              | 1.4.3                     |                                       | https://github.com/AttifyOS/jadx              | Aug 5, 2022  |
+| JADX              | 1.4.5                     |                                       | https://github.com/AttifyOS/jadx              | Nov 14, 2022 |
 | kalibrate-rtl     | 0.4.1                     |                                       | https://github.com/AttifyOS/kalibrate-rtl     | Aug 30, 2022 |
 | killerbee         | 3.0.0-beta.2              |                                       | https://github.com/AttifyOS/killerbee         | Aug 13, 2022 |
 | linux-router      | 0.6.6                     |                                       | https://github.com/AttifyOS/linux-router      | Aug 19, 2022 |
