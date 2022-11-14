@@ -178,9 +178,9 @@ package_type = "snap"
 [packages.radare2]
 name = "radare2"
 description = "The Free and Open Software Radio Ecosystem"
-version = "5.7.6"
+version = "5.7.8"
 repo_url = "https://github.com/AttifyOS/radare2"
-repo_tag = "v5.7.6"
+repo_tag = "v5.7.8"
 license = "GPL-3.0, LGPL-3.0"
 
 [packages.colordiff]

@@ -45,7 +45,7 @@ Package index for AttifyOS
 | Objection         | 1.11.0                    | snap package                          | https://github.com/AttifyOS/objection         | Aug 10, 2022 |
 | ook-decoder       | cc108f9 (July 19, 2021)   |                                       | https://github.com/AttifyOS/ook-decoder       | Aug 26, 2022 |
 | OpenOCD           | 0.11.0-4                  |                                       | https://github.com/AttifyOS/OpenOCD           | Aug 26, 2022 |
-| radare2           | 5.7.6                     |                                       | https://github.com/AttifyOS/radare2           | Aug 23, 2022 |
+| radare2           | 5.7.8                     |                                       | https://github.com/AttifyOS/radare2           | Nov 14, 2022 |
 | routersploit      | 3.4.0                     |                                       | https://github.com/AttifyOS/routersploit      | Aug 29, 2022 |
 | rtl_433           | 21.12-146                 |                                       | https://github.com/AttifyOS/rtl_433           | Sep 5, 2022  |
 | spectrum_painter  | 0.1                       |                                       | https://github.com/AttifyOS/spectrum_painter  | Aug 31, 2022 |
