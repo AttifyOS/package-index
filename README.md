@@ -26,7 +26,7 @@ Package index for AttifyOS
 | expliot           | 0.9.11                    |                                       | https://github.com/AttifyOS/expliot           | Sep 6, 2022  |
 | Flashrom          | 1.2                       | snap package                          | https://github.com/AttifyOS/flashrom          | Aug 12, 2022 |
 | fmk               | 0.99--8403a17             | snap package                          | https://github.com/AttifyOS/firmware-mod-kit  | Aug 18, 2022 |
-| Frida             | 15.2.2                    |                                       | https://github.com/AttifyOS/frida             | Aug 8, 2022  |
+| Frida             | 16.0.2                    |                                       | https://github.com/AttifyOS/frida             | Nov 14, 2022 |
 | fwanalyzer        | 1.4.3                     |                                       | https://github.com/AttifyOS/fwanalyzer        | Sep 2, 2022  |
 | gdb-multiarch     | 12.1                      |                                       | https://github.com/AttifyOS/gdb-multiarch     | Sep 4, 2022  |
 | Ghidra            | 10.2                      |                                       | https://github.com/AttifyOS/ghidra            | Nov 9, 2022  |
